@@ -1,6 +1,6 @@
 import urllib.request
 
-def jojo2real():
+def real2jojo():
     url = "https://www.dropbox.com/s/ukeygzg9ywnnapg/real2jojo.zip?dl=1"  # dl=1 is important
     zip_file = urllib.request.urlopen(url)
     data = zip_file.read()
