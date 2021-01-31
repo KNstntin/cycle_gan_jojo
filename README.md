@@ -5,8 +5,8 @@
 
 # Ссылки для загрузки используемых датасетов:
 
-real2jojo: 
-horse2zebra: 
+real2jojo:  https://drive.google.com/file/d/1QFkfPHuNCsmawMGlIJq25nzPw_8cAVuu/view?usp=sharing
+horse2zebra:  https://drive.google.com/file/d/14bQL2UXktCFBWUyfcUk0MsLfvueVcki7/view?usp=sharing
 
 # Ссылки на обученные веса:  
 
